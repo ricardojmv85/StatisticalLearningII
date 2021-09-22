@@ -1,0 +1,2 @@
+model_checkpoint_path: "lstm5_dropout1_dense64relu_dropout1_dense16relu_dropout1_denselinear_batch=512_epochs=50"
+all_model_checkpoint_paths: "lstm5_dropout1_dense64relu_dropout1_dense16relu_dropout1_denselinear_batch=512_epochs=50"
