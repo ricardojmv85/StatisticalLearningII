@@ -1,0 +1,6 @@
+LISTA DE ENTREGABLES
+
+* CODIGO DEL PROYECTO: notebook Proyecto Final.ipynb
+* POSTER: ProyectoStatisticalLearningPoster.pdf
+* PAPER: Proyecto_Statisticall_Learning_Paper.pdf
+* PRESENTACION POSTER: https://youtu.be/XJCwY8-mxkU
